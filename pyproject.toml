@@ -7,3 +7,4 @@ description="flask template"
 [tool.poetry.dependencies]
 flask = "*"
 python = "^3.8"
+gunicorn = "*"
