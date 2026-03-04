@@ -1,0 +1,8 @@
+flask
+flask-bootstrap
+flask-ckeditor
+flask-gravatar
+flask-login
+flask-sqlalchemy
+flask-wtf
+gunicorn
